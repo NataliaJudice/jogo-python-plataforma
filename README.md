@@ -1,6 +1,6 @@
 Shadow Ascent:
 
-Este projeto é um jogo de plataforma side-scroller desenvolvido em Python utilizando a biblioteca Pygame Zero.
+Este projeto é um jogo de plataforma desenvolvido em Python utilizando a biblioteca Pygame Zero.
 
 Como Executar:
 
